@@ -1,5 +1,4 @@
 # DineIn-SwiftUI
-
 iOS project using SwiftUI elements i.e. NavigationView, TabView, List, NavigationLink, Picker, Toggle etc.
 
 
